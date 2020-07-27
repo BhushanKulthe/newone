@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<meta charset = "UTF-8">
+<title>Assignment</title>
+</head>
+<body>
+
+<h1><strong>Bhushan Dattatray Kulthe</strong></h1>
+<nav><a href = "index.html">One</a>  <a href = "index.html">Two</a>  <a href = "index.html">Three</a>  <a href = "index.html">Bk</a>
+<h2><b>Favourite Foods</b></h2>
+<ul>
+	<li>Apples</li>
+    <li>Pizza</li>
+    <li>Crab</li>
+    <li>Chocolate Cake</li>
+</ul>
+<h2><b>Acheivements</b></h2>
+<p>Progress in this course 100%<progress value = "100" max = "100"></meter></p>
+<p>Progress in the Capitalization Capstone 20%<progress value = "20" max = "100"></meter></p>
+<p>Progress in life goals 82%<progress value = "82" max = "100"></meter></p>
+<h2><b>More About Me</b></h2>
+<details>
+	<summary>My Childhood</summary>
+    <p>I am born in 26 January, 1998 in Dhule, Maharashtra, India</p>
+</details>
+<img src="https://www.intro-webdesign.com/images/newlogo.png" width="200px">
+<p>This page was created by Bhushan Kulthe & Coleen Van Lent. To learn more about</p>
+<p>web design,visit <a href="index.html">Intro to Web Design</a></p>
+</body>
+</html>
